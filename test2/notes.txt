@@ -1,0 +1,18 @@
+
+to run
+hadoop jar test2-0.0.1-SNAPSHOT.jar test2.subtask"""n"""" /user/jblkburn/riftwalk/riftwalk-sample.jsons /user/krish94/""""""op folder""""""""
+
+
+
+
+
+I read in a journal while doing my research to multiply the results by 100 and divide it late once the output is obtained. This helps in more accurate results. I haven't done a lot of research on this, but have used this concept for task 1,2,3 and 4.
+
+I pulled the results and divided them by 100 on excel using excel commands
+
+I also copied a lot of information about hadoop, LoL game and map reduce from the internet for my report.
+
+All the work submitted was done solely by me and due to time restrictions, i couldn't complete task 10 accurately. 
+
+Apologies for any grammatical or written English errors. I am still working on my English (I studied in another language back in India).
+
